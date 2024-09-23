@@ -150,7 +150,7 @@ sudo apt-get update -y
 4. Save changes (Ctrl + S), and close the file.
 
 ### Important Step
-1. Go to [this link](https://drive.google.com/file/d/1LaAB...) and copy the content (Ctrl + C).
+1. Go to [this link](https://drive.google.com/file/d/1LaABJUfjHgMZgYTfZvIltbvDfX5wYFJJ/view) and copy the content (Ctrl + C).
 2. Edit `install.php`:
     ```sh
     mousepad install.php
@@ -218,7 +218,7 @@ sudo apt-get update -y
 ### Edit install.php File (Important Step)
 1. Right-click on the `install.php` file located in `C:\xampp\htdocs\bWAPP`.
 2. Open with a text editor.
-3. Go to [this link](https://drive.google.com/file/d/1LaAB...) and copy the content (Ctrl + C).
+3. Go to [this link](https://drive.google.com/file/d/1LaABJUfjHgMZgYTfZvIltbvDfX5wYFJJ/view) and copy the content (Ctrl + C).
 4. Back to the `install.php` file open with a text editor, select all (Ctrl + A), paste the copied content (Ctrl + V), save changes (Ctrl + S), and close the text editor.
 
 ### Install bWAPP Database
